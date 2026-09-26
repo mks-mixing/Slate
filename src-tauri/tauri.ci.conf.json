@@ -1,6 +1,6 @@
 {
 	"bundle": {
-		"createUpdaterArtifacts": true,
-		"targets": ["nsis", "appimage"]
+		"createUpdaterArtifacts": false,
+		"targets": ["nsis"]
 	}
 }
